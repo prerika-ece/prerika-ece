@@ -41,13 +41,8 @@ I am an Electronics and Communication Engineering undergraduate with a strong fo
 #### 🔬 Analog & Custom IC Design (Cadence Virtuoso)
 *   **[Analog & Custom IC Design Portfolio](https://github.com/prerika-ece/Analog-Custom-IC-Design-Portfolio)**
     *   Designed and validated transistor-level CMOS circuits across 180nm, 90nm, and 45nm GPDK technologies using Cadence Virtuoso.
-    *   **Circuits:** Logic Gates, Inverter, D Latch, Ring Oscillator, Chaotic Oscillator, VDDDA-based VM Quadrature Oscillator, and Memristor Emulator using Five-Transistor OTA.
-    *   *Includes schematics, layouts, and simulation results (DC, Transient, Parametric).*
-
----
-
-### 📊 GitHub Stats
-![Prerika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prerika-ece&show_icons=true&theme=radical)
+    *   **Circuits:** CMOS Logic Gates, D Latch, 3-Stage Ring Oscillator, Chaotic Oscillator, and VDDDA-based Voltage-Mode Multifunction Filter.
+    *   *Includes schematics, layouts, and simulation results (DC, Transient, AC, Parametric).*
 
 ---
 
