@@ -7,7 +7,7 @@ I am an Electronics and Communication Engineering undergraduate with a strong fo
 - 🔭 I’m currently working on: **32-Bit SoC Design (Phase 2: Memory Controller & UART)**
 - 🌱 I’m currently learning: **Low Power VLSI Design & Physical Design Optimization**
 - 💬 Ask me about: **Cadence Genus, Innovus, Virtuoso, Verilog HDL, and ASIC Flow**
-- 📫 How to reach me: **[prerika.ece@gmail.com](mailto:prerika.ece@gmail.com)**
+- 📫 How to reach me: **[prerika.riya@gmail.com](mailto:prerika.riya@gmail.com)**
 - 📍 Location: **Delhi, India**
 
 ---
